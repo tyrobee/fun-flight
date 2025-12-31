@@ -1,0 +1,12 @@
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-F_Cu.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-B_Cu.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-F_Paste.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-B_Paste.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-F_Silkscreen.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-B_Silkscreen.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-F_Mask.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-B_Mask.gbr'.
+Plotted to '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/shashank/Desktop/new fc/fun-flight/KICAD/GerberFiles /fc-job.gbrjob'.
+Info: Done.
+Info: Done.
