@@ -11,15 +11,16 @@ This is my flight controller fun flight which is STM37F722 based Fc
 
   The front view of the pcb
 
-![Top View](KiCAD/outputs/fp.png)
+![Front PCB](KiCad/fp.png)
+
+
 
 
 
 
   the back view of the pcb
 
-![Bottom View](KiCAD/outputs/bp.png)
-
+![Bottom PCB](KiCad/bp.png)
 
 
 
