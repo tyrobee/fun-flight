@@ -22,6 +22,9 @@ KiCad/fp.png
 <img src="KiCad/bp.png" width="450"/>
 
 
+<img src="KiCad/fp.png" width="450"/>
+
+<img src="KiCad/bp.png" width="450"/>
 
 
 
