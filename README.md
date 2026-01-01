@@ -15,7 +15,8 @@ This is my flight controller fun flight which is STM37F722 based Fc
 ## PCB Renders
 
 ### Front Layer
-<img src="KiCad/fp.png" width="450"/>
+KiCad/fp.png
+
 
 ### Bottom Layer
 <img src="KiCad/bp.png" width="450"/>
