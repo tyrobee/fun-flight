@@ -1,6 +1,8 @@
 # fun-flight
 This is my flight controller fun flight which is STM37F722 based Fc
 
+
+
 ## Features
 - STM32F405RGT6 (168 MHz, 1 MB Flash)
 - 8 × PWM servo outputs (JST-SM)
@@ -9,18 +11,15 @@ This is my flight controller fun flight which is STM37F722 based Fc
 - USB-C (DFU + serial)
 - 5 V buck + 3.3 V LDO (7–20 V input)
 
-  The front view of the pcb
+  
+## PCB Renders
 
-![Front PCB](KiCad/fp.png)
+### Front Layer
+<img src="KiCad/fp.png" width="450"/>
 
+### Bottom Layer
+<img src="KiCad/bp.png" width="450"/>
 
-
-
-
-
-  the back view of the pcb
-
-![Bottom PCB](KiCad/bp.png)
 
 
 
