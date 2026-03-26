@@ -5,14 +5,14 @@ the whole motivation behind building was that i was really motivated in making p
 
 
 ## Key Features
-- STM32F405RGT6 (168 MHz, 1 MB Flash) 
-- 8 × PWM servo outputs which can be mapped for motor outputs too
-- MPU-9250
-- ICM-42688 (I2C + SPI)
-- W25Q128 for a extra 16mb of data for the black box and the flash for trobuleshooting and everything
-- USB-C (DFU + serial)
-- 5 V buck + 3.3 V LDO (upto to 3s input)
-
+- **STM32F722RET6 microcontroller** for high-performance control
+- **ICM-45686 IMU** for precise motion tracking
+- **BMP580 barometer** for altitude sensing
+- **MicroSD card storage** for flight data logging
+- **Dual servo outputs** for TVC or fin control
+- **2-cell LiPo support** with integrated BQ25883 charger
+- **USB-C connectivity** for programming and data transfer
+- **Compact design** optimized for rocket applications
   
 ## PCB 
 
