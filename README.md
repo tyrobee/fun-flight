@@ -17,12 +17,10 @@ the whole motivation behind building was that i was really motivated in making p
 ## PCB 
 
 ### Front Layer
-<img src="KICAD/fp.png" width="450"/>
+<img src="kicad/pcb.png" width="450"/>
 
 
 
-### Bottom Layer
-<img src="KICAD/bp.png" width="450"/>
 
 
 
