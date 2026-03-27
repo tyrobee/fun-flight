@@ -12,7 +12,7 @@ the whole motivation behind building was that i was really motivated in making p
 - LQFP-64 package (compact and powerful)
 
 ## Schematics
-<img src="PCB/p.png" width="450"/>
+<img src="PCB/S.png" width="450"/>
 ## PCB 
 <img src="PCB/p.png" width="450"/>
 
