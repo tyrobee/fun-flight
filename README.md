@@ -5,18 +5,9 @@ the whole motivation behind building was that i was really motivated in making p
 
 
 ## Key Features
-- **STM32F722RET6 microcontroller** for high-performance control
-- **ICM-45686 IMU** for precise motion tracking
-- **BMP580 barometer** for altitude sensing
-- **MicroSD card storage** for flight data logging
-- **Dual servo outputs** for TVC or fin control
-- **2-cell LiPo support** with integrated BQ25883 charger
-- **USB-C connectivity** for programming and data transfer
-- **Compact design** optimized for rocket applications
+
   
 ## PCB 
-
-### Front Layer
 <img src="PCB/p.png" width="450"/>
 
 
