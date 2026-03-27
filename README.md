@@ -7,9 +7,9 @@ the whole motivation behind building was that i was really motivated in making p
 ## Key Features
 	
   STM32F722 (ARM Cortex-M7, high-performance MCU)
-	Designed with planes in mind
-	Works with PWM ESCs (drone compatible)
-	LQFP-64 package (compact + powerful)
+  Designed with planes in mind
+  Works with PWM ESCs (drone compatible)
+  LQFP-64 package (compact + powerful)
 
 ## Schematics
 <img src="PCB/p.png" width="450"/>
