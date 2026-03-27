@@ -17,7 +17,7 @@ the whole motivation behind building was that i was really motivated in making p
 ## PCB 
 
 ### Front Layer
-<img src="kicad/pcb.png" width="450"/>
+<img src="PCB/p.png" width="450"/>
 
 
 
