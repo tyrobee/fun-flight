@@ -16,6 +16,14 @@ the whole motivation behind building was that i was really motivated in making p
 ## PCB 
 <img src="PCB/p.png" width="450"/>
 
+## BOM
+
+| Name                                      | Purpose   | Quantity | Total Cost (USD) | Link                                                                 | Distributor |
+|-------------------------------------------|----------|----------|------------------|----------------------------------------------------------------------|-------------|
+| XY301VA-5.0 XINYA 2 Pin Screw Terminal Block (Blue) | Connector | 10       | 1.27             | https://robu.in/product/xy301va-5-0-xinya-2-pin-screw-terminal-blockblue | Robu        |
+| Male Pin Headers                          | Pins      | 5        | 0.79             | https://robu.in/product/ds1021-1x40sf11-b-connfly-1x40-pin-2-54mm-pin-header-v-t-type | Robu        |
+| PCB with PCBA                             | PCB       | 1        | 177.00           | —                                                                    | JLCPCB      |
+
 
 
 
